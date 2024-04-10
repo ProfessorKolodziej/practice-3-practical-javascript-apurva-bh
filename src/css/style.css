@@ -33,3 +33,11 @@ h1 {
 		max-width: 768px;
 	}
 }
+
+.show{
+	color: blue;
+}
+
+.hide{
+	display: none;
+}
